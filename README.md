@@ -57,10 +57,14 @@ Review your answers and try again to improve your score
 📁 Project Structure
 
 quizmaster-pro/
-├── index.html      # Main HTML file
-├── styles.css      # CSS styling
-├── script.js       # JavaScript functionality
-└── README.md       # Project documentation
+
+index.html     
+
+styles.css     
+
+script.js    
+
+README.md       
 
 🤝 Contributing
 
