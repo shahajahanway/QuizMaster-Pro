@@ -55,6 +55,7 @@ Submit your quiz to see results
 Review your answers and try again to improve your score
 
 📁 Project Structure
+
 quizmaster-pro/
 ├── index.html      # Main HTML file
 ├── styles.css      # CSS styling
